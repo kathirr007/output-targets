@@ -1,0 +1,9 @@
+/* stylelint-disable no-descending-specificity */
+:host {
+  * {
+    box-sizing: border-box;
+  }
+
+  display: inline-block;
+  width: fit-content;
+}
